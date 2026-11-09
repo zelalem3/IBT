@@ -1,0 +1,14 @@
+/home/zelalemg/projects/IBT/AddisEats.TopUp/bin/Debug/net8.0/AddisEats.TopUp
+/home/zelalemg/projects/IBT/AddisEats.TopUp/bin/Debug/net8.0/AddisEats.TopUp.deps.json
+/home/zelalemg/projects/IBT/AddisEats.TopUp/bin/Debug/net8.0/AddisEats.TopUp.runtimeconfig.json
+/home/zelalemg/projects/IBT/AddisEats.TopUp/bin/Debug/net8.0/AddisEats.TopUp.dll
+/home/zelalemg/projects/IBT/AddisEats.TopUp/bin/Debug/net8.0/AddisEats.TopUp.pdb
+/home/zelalemg/projects/IBT/AddisEats.TopUp/obj/Debug/net8.0/AddisEats.TopUp.GeneratedMSBuildEditorConfig.editorconfig
+/home/zelalemg/projects/IBT/AddisEats.TopUp/obj/Debug/net8.0/AddisEats.TopUp.AssemblyInfoInputs.cache
+/home/zelalemg/projects/IBT/AddisEats.TopUp/obj/Debug/net8.0/AddisEats.TopUp.AssemblyInfo.cs
+/home/zelalemg/projects/IBT/AddisEats.TopUp/obj/Debug/net8.0/AddisEats.TopUp.csproj.CoreCompileInputs.cache
+/home/zelalemg/projects/IBT/AddisEats.TopUp/obj/Debug/net8.0/AddisEats.TopUp.dll
+/home/zelalemg/projects/IBT/AddisEats.TopUp/obj/Debug/net8.0/refint/AddisEats.TopUp.dll
+/home/zelalemg/projects/IBT/AddisEats.TopUp/obj/Debug/net8.0/AddisEats.TopUp.pdb
+/home/zelalemg/projects/IBT/AddisEats.TopUp/obj/Debug/net8.0/AddisEats.TopUp.genruntimeconfig.cache
+/home/zelalemg/projects/IBT/AddisEats.TopUp/obj/Debug/net8.0/ref/AddisEats.TopUp.dll
